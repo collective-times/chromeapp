@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://collective-times-front.netlify.com/"
+      },
+      "urls": [ "https://collective-times-front.netlify.com/" ]
+   },
+    "description": "Launch Collective Times",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "manifest_version": 2,
+   "name": "Collective Times",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
